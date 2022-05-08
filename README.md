@@ -4,6 +4,6 @@ The purpose of this project is to learn about frontend development with React. I
 JavaScript, React, React Router v6, Antd.
 
 ## Installation
-`git clone https://github.com/etasdemir/react-dashboard.git`
-`yarn install`
-`yarn start`
+`git clone https://github.com/etasdemir/react-dashboard.git` <br />
+`yarn install` <br />
+`yarn start` <br />
