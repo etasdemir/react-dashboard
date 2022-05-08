@@ -1,0 +1,20 @@
+[
+    {
+        "orderID": "F8762",
+        "price": 33.99,
+        "deliveryAddress": "Address 1",
+        "status": "Delivered"
+    },
+    {
+        "orderID": "A8762",
+        "price": 13.99,
+        "deliveryAddress": "Address 2",
+        "status": "Delivered"
+    },
+    {
+        "orderID": "B8762",
+        "price": 23.99,
+        "deliveryAddress": "Address 3",
+        "status": "Declined"
+    }
+]
